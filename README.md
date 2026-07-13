@@ -1,9 +1,7 @@
 # 📊 AI Data Analyst Agent
 
 
-🔗 **Live Demo:** [https://misbahsamann-data-agent.streamlit.app/](https://misbahsamann-data-agent.streamlit.app/)
-
-![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
+🔗 **Live Demo:** [https://ai-data-analyst-agent-fbdyrsnd63j4u3vyqrbshq.streamlit.app/](https://ai-data-analyst-agent-fbdyrsnd63j4u3vyqrbshq.streamlit.app/)
 
 An AI-powered agent that lets you upload a CSV or Excel file and ask questions about your data in plain English...
 

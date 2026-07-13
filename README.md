@@ -1,5 +1,12 @@
 # 📊 AI Data Analyst Agent
 
+
+🔗 **Live Demo:** [https://misbahsamann-data-agent.streamlit.app/](https://misbahsamann-data-agent.streamlit.app/)
+
+![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
+
+An AI-powered agent that lets you upload a CSV or Excel file and ask questions about your data in plain English...
+
 An AI-powered agent that lets you upload a CSV or Excel file and ask questions about your data in plain English. It converts your natural language question into a SQL query, runs it against the full dataset using DuckDB, and returns a clear, human-readable answer.
 
 ## How it works
@@ -43,3 +50,4 @@ Enter your free Groq API key (get one at [console.groq.com](https://console.groq
 ## Notes
 
 Inspired by open-source data-analyst-agent patterns, rebuilt with Groq's free LLaMA models instead of OpenAI to keep it cost-free for prototyping.
+
